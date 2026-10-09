@@ -1,13 +1,13 @@
 # Learnify — Modern Docker-Based Learning Management System
 
-[![Laravel 12](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Laravel 13](https://img.shields.io/badge/Laravel-13.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![PHP 8.3](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![Tailwind CSS 4](https://img.shields.io/badge/Tailwind-v4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![MySQL 8.4](https://img.shields.io/badge/MySQL-8.4_LTS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Redis 7](https://img.shields.io/badge/Redis-7_Alpine-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 
-Learnify is an enterprise-grade, modern, and high-performance Learning Management System (LMS) designed for students, instructors, corporate teams, and administrators. Built with **PHP 8.3**, **Laravel 12**, **Livewire 3**, **Alpine.js**, **Tailwind CSS 4**, and orchestrated via **Docker Desktop**.
+Learnify is an enterprise-grade, modern, and high-performance Learning Management System (LMS) designed for students, instructors, corporate teams, and administrators. Built with **PHP 8.3**, **Laravel 13**, **Livewire 3**, **Alpine.js**, **Tailwind CSS 4**, and orchestrated via **Docker Desktop**.
 
 ---
 

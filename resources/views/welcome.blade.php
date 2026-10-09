@@ -69,7 +69,7 @@
                 Production-Grade <span class="bg-gradient-to-r from-indigo-400 via-violet-400 to-pink-400 bg-clip-text text-transparent">LMS Platform</span>
             </h1>
             <p class="mt-4 text-base sm:text-lg text-slate-400 font-normal leading-relaxed">
-                Powered by Laravel 12, PHP 8.3, Livewire 3, Tailwind CSS 4, MySQL 8.4, Redis 7, Laravel Horizon, Reverb, Meilisearch & MinIO.
+                Powered by Laravel 13, PHP 8.3, Livewire 3, Tailwind CSS 4, MySQL 8.4, Redis 7, Laravel Horizon, Reverb, Meilisearch & MinIO.
             </p>
             <div class="mt-8 flex flex-wrap items-center justify-center gap-3">
                 <span class="px-3 py-1 rounded-lg bg-slate-800/80 border border-slate-700/60 text-xs text-slate-300 font-mono">PHP {{ PHP_VERSION }}</span>

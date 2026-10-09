@@ -2,7 +2,7 @@
 
 ## Phase 1 Decisions
 
-1. **PHP 8.3 & Laravel 12 on Alpine**:
+1. **PHP 8.3 & Laravel 13 on Alpine**:
    - Base image: `php:8.3-fpm-alpine`.
    - Extensions installed via `mlocati/docker-php-extension-installer` for fast, reliable, reproducible builds:
      - `pdo_mysql`, `redis`, `gd`, `intl`, `zip`, `bcmath`, `pcntl`, `exif`, `opcache`.
